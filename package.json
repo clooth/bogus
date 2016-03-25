@@ -1,0 +1,21 @@
+{
+  "name": "bogus",
+  "version": "0.0.1",
+  "description": "react.js incremental game",
+  "keywords": [
+    "react",
+    "incremental",
+    "game"
+  ],
+  "author": "Nico Hämäläinen <nico@sizeof.io>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clooth/bogus.git"
+  },
+  "license": "MIT",
+  "bugs": "https://github.com/clooth/bogus/issues",
+  "homepage": "https://github.com/clooth/bogus#readme",
+  "contributors": [
+    "Nico Hämäläinen (http://sizeof.io)"
+  ]
+}
